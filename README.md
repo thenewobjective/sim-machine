@@ -8,6 +8,9 @@ This project was built in 2010 by:
 * Michael Haufe <https://thenewobjective.com>
 * Ryan Biwer <https://www.linkedin.com/in/ryan-biwer-9319902a/>
 
+Width additional contributions by:
+* Graham Mueller <https://www.linkedin.com/in/graham-mueller-52231b3b/>
+
 It need a bit of TLC to get it functioning again as it's bit-rotted. You can view the documentation
 in the repo for details on how it worked.
 
