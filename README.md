@@ -2,11 +2,11 @@
 
 This project was built in 2010 by:
 
-Brok Bucholtz <https://www.linkedin.com/in/brokb/>
-Jose Antony <https://www.linkedin.com/in/jose-antony-b8143126/>
-Mike Easter <https://www.linkedin.com/in/mike706574/>
-Michael Haufe <https://thenewobjective.com>
-Ryan Biwer <https://www.linkedin.com/in/ryan-biwer-9319902a/>
+* Brok Bucholtz <https://www.linkedin.com/in/brokb/>
+* Jose Antony <https://www.linkedin.com/in/jose-antony-b8143126/>
+* Mike Easter <https://www.linkedin.com/in/mike706574/>
+* Michael Haufe <https://thenewobjective.com>
+* Ryan Biwer <https://www.linkedin.com/in/ryan-biwer-9319902a/>
 
 It need a bit of TLC to get it functioning again as it's bit-rotted. You can view the documentation
 in the repo for details on how it worked.
