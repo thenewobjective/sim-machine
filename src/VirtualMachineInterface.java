@@ -202,16 +202,6 @@ public class VirtualMachineInterface extends JFrame {
 		return floater;
 	}
 
-	/**
-	 * Listeners for each of the buttons
-	 * @author Tony Meier, Mark Trevino, Tim Foley, and Cory Schulz
-	 * @editor Graham Mueller
-	 *
-	 *	Save, Load -- Cory Schulz
-	 *  Reset -- Anthony Meier
-	 *  Halt -- Mark Trevino
-	 *  Step, Run -- Timothy Foley
-	 */
 	private class Listener implements ActionListener {
 		public void actionPerformed(ActionEvent e) {
 			// SAVE
@@ -312,11 +302,6 @@ public class VirtualMachineInterface extends JFrame {
 			}
 		}
 		
-		/**
-		 * Fix all GUI fields
-		 * @author Timothy Foley
-		 * @editor Graham Mueller
-		 */
 		private void update(){
 			// Update general purpose registers
 			for(int i = 0; i < 16; i++){
